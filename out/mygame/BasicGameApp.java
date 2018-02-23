@@ -11,7 +11,6 @@ import com.almasb.fxgl.physics.PhysicsWorld;
 import com.almasb.fxgl.settings.GameSettings;
 import javafx.scene.input.MouseButton;
 import javafx.util.Duration;
-import jdk.jfr.SettingControl;
 
 import java.util.Map;
 

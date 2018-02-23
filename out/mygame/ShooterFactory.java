@@ -7,8 +7,6 @@ import javafx.geometry.Point2D;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.paint.Color;
 
-import java.awt.*;
-
 //This is the class, where Entity's are created
 @SetEntityFactory
 public class ShooterFactory implements EntityFactory {
